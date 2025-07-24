@@ -27,7 +27,8 @@
 
 ## 💻 Hospedagem
 
-Organizar os aprendizados semanais com foco prático, com projetos pequenos, exercícios e desafios em Java puro.
+- Amazon Web Services
+- GoDaddy (Pendente de sincronização)
 
 <br>
 
